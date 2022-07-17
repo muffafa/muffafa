@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muffafa
-- 👀 I’m interested in: AI, Machine Learning, OOP
-- 🌱 I’m currently learning: Data Structure with C and C++    
+- 👀 I’m interested in: Blockchain and WEB3
+- 🌱 I’m currently learning: React and WEB3    
 - 📫 How to get contact wtih me https://linktr.ee/muffafa
 - WORKING ON A WEB APP PROJECT
 <!---
