@@ -2,10 +2,9 @@
 
 **Frontend & Game Developer**
 
-- 👀 I’m interested in: Blockchain and WEB3
-- 🌱 I’m currently learning: Rust and WEB3    
-- 📫 How to get contact wtih me https://linktr.ee/muffafa
-- WORKING ON A WEB APP PROJECT
+- 👀   I’m interested in: Blockchain and WEB3
+- 🌱   I’m currently learning: Rust and WEB3    
+- 📫   How to get contact wtih me [https://linktr.ee/muffafa](https://linktr.ee/muffafa)
 
 ## <p align="center">My GitHub Stats</p>
 <p align="center">
