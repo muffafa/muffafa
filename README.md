@@ -1,7 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Mustafa(muffafa) Savar
 
+## Frontend & Game Developer
+
 - 👀 I’m interested in: Blockchain and WEB3
-- 🌱 I’m currently learning: React and WEB3    
+- 🌱 I’m currently learning: Rust and WEB3    
 - 📫 How to get contact wtih me https://linktr.ee/muffafa
 - WORKING ON A WEB APP PROJECT
 
