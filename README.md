@@ -1,7 +1,9 @@
-<div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=F71413&width=435&lines=Hello+there+%F0%9F%99%8B%F0%9F%8F%BB;My+name+is+muffafa+%F0%9F%98%BC;Muhammed+Mustafa+Savar+%F0%9F%A4%93" alt="Typing SVG" /></a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muffafa.muffafa">
+<div align="center">
+ <a href="https://github.com/muffafa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME+%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+MUFFAFA+%F0%9F%98%BC;MUHAMMED+MUSTAFA+SAVAR+%F0%9F%A4%93" alt="Typing SVG" />
  </a>
- </div>
+</div>
  
 ---
 
@@ -15,6 +17,11 @@
 ---
 
 ### <p align="center">My GitHub Stats</p>
+
+<p align="center">
+ <a href="http://www.github.com/muffafa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffafa&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats"  alt="muffafa's GitHub stats" />
+</p>
+
 <p align="center">
  <a href="http://www.github.com/muffafa"><img src="https://github-readme-stats.vercel.app/api?username=muffafa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="muffafa's GitHub stats" />
   </p>
