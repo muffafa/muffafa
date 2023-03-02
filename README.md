@@ -19,7 +19,7 @@
 ### <p align="center">My GitHub Stats</p>
 
 <p align="center">
- <a href="http://www.github.com/muffafa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffafa&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats"  alt="muffafa's GitHub stats" />
+ <a href="http://www.github.com/muffafa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffafa&theme=dark&layout=compact"  alt="muffafa's GitHub stats" />
 </p>
 
 <p align="center">
