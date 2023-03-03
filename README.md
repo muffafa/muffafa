@@ -10,9 +10,9 @@
 ### <p align="center">About Me</p>
  
 - 💪🏻  I'm **Frontend & Game Developer**
-- 👀  I’m interested in: Blockchain and WEB3
-- 🌱  I’m currently learning: Rust and WEB3    
-- 📫  How to get contact wtih me [https://linktr.ee/muffafa](https://linktr.ee/muffafa)
+- 👀  I’m interested in: **Blockchain and WEB3**
+- 🌱  I’m currently learning: **Rust and WEB3**    
+- 📫  How to get contact wtih me **[https://linktr.ee/muffafa](https://linktr.ee/muffafa)**
 
 ---
 
