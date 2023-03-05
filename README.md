@@ -19,6 +19,10 @@
 ### <p align="center">My GitHub Stats</p>
 
 <p align="center">
+ <a href="http://www.github.com/muffafa"><img src="https://github-profile-trophy.vercel.app/?username=muffafa&theme=onedark&column=3"  alt="muffafa's GitHub stats" />
+</p>
+
+<p align="center">
  <a href="http://www.github.com/muffafa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muffafa&theme=dark&layout=compact"  alt="muffafa's GitHub stats" />
 </p>
 
