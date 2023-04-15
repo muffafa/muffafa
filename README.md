@@ -9,9 +9,9 @@
 
 ### <p align="center">About Me</p>
  
-- 💪🏻  I'm **Frontend & Game Developer**
+- 💪🏻  I'm **Jr. Full Stack Web3 Developer**
 - 👀  I’m interested in: **Blockchain and WEB3**
-- 🌱  I’m currently learning: **Rust and WEB3**    
+- 🌱  I’m currently learning: **Solidity and Backend Technologies**    
 - 📫  Contact with me! **[https://linktr.ee/muffafa](https://linktr.ee/muffafa)**
 
 ---
