@@ -11,7 +11,7 @@
  
 - 💪🏻  I'm **Jr. Full Stack Web3 Developer**
 - 👀  I’m interested in: **Blockchain and WEB3**
-- 🌱  I’m currently learning: **Solidity and Backend Technologies**    
+- 🌱  I’m currently learning: **Backend Technologies and Project Management**    
 - 📫  Contact with me! **[https://linktr.ee/muffafa](https://linktr.ee/muffafa)**
 
 ---
