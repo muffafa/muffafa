@@ -9,9 +9,9 @@
 
 ### <p align="center">About Me</p>
  
-- 💪🏻  I'm **Jr. Full Stack Web3 Developer**
-- 👀  I’m interested in: **Blockchain and WEB3**
-- 🌱  I’m currently learning: **Backend Technologies and Project Management**    
+- 💪🏻  I'm **Full Stack Developer**
+- 👀  I’m interested in: **AI, Blockchain and WEB**
+- 🌱  I’m currently learning: **Backend Technologies**    
 - 📫  Contact with me! **[https://linktr.ee/muffafa](https://linktr.ee/muffafa)**
 
 ---
